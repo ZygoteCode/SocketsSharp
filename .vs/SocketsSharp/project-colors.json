@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfd52c42-0a86-4432-9f40-6576f5a1b610": {
+      "ProjectGuid": "dfd52c42-0a86-4432-9f40-6576f5a1b610",
+      "DisplayName": "SocketsSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
